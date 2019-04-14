@@ -1,0 +1,23 @@
+{
+  "name": "复制URL",
+  "name_en": "Copy URL",
+  "main": "index.js",
+  "icon": "clipboard",
+  "version": "0.1",
+  "description": "复制Shell URL",
+  "description_en": "Copy Shell URL",
+  "author": {
+    "name": "Medicean",
+    "email": "Medici.Yan@gmail.com"
+  },
+  "category": "",
+  "category_en": "",
+  "multiple": false,
+  "scripts": [
+    "php4",
+    "php",
+    "asp",
+    "aspx",
+    "custom"
+  ]
+}
